@@ -116,7 +116,6 @@ export default {
       }
     },
     ...mapState([
-      'selectPlay',
       'playlist'
     ])
   },

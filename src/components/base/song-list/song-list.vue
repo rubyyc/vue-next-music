@@ -82,6 +82,9 @@ export default {
 			}
 		}
 		.content {
+			display: flex;
+			flex-direction: column;
+			align-items: flex-start;
 			flex: 1;
 			line-height: 20px;
 			overflow: hidden;
